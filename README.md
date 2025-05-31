@@ -1,5 +1,13 @@
-<img alt="Coding" width="400" src="banner.png">
+<img alt="Coding" src="banner.png">
 
+![](https://komarev.com/ghpvc/?username=dilloncaldwell)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilloncaldwell&theme=tokyonight)](https://git.io/streak-stats)
+
+
+![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilloncaldwell&show_icons=true&theme=tokyonight&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilloncaldwell&layout=compact&theme=tokyonight)
 <!--
 **dilloncaldwell/dilloncaldwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
