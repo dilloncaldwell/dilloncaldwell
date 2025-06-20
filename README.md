@@ -32,7 +32,7 @@ class Developer {
 
 ![](https://komarev.com/ghpvc/?username=dilloncaldwell)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilloncaldwell&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilloncaldwell&theme=tokyonight)
 
 
 ![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilloncaldwell&show_icons=true&theme=tokyonight&rank_icon=github)
