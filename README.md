@@ -32,7 +32,7 @@ class Developer {
 
 ![](https://komarev.com/ghpvc/?username=dilloncaldwell)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilloncaldwell&theme=tokyonight" alt="github streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilloncaldwell" alt="github streak">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilloncaldwell&theme=tokyonight)
 
