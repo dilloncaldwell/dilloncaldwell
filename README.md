@@ -4,7 +4,7 @@
 class Developer {
   constructor() {
     this.name = 'Dillon Caldwell';
-    this.title = 'WordPress Developer → Aspiring Software Engineer';
+    this.title = 'Aspiring Software Engineer';
     this.experience = '7+ years';
     this.summary = 'Building custom WordPress sites while leveling up as a full-stack engineer.';
     this.skills = {
@@ -39,4 +39,4 @@ class Developer {
 
 ![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilloncaldwell&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilloncaldwell&layout=normal&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilloncaldwell&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5)
