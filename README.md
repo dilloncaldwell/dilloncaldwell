@@ -39,7 +39,7 @@ class Developer {
 
 ![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilloncaldwell&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilloncaldwell&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilloncaldwell&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=10)
 <!--
 **dilloncaldwell/dilloncaldwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
